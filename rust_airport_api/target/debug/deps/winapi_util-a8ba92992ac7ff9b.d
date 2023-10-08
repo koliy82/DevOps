@@ -1,0 +1,11 @@
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\winapi_util-a8ba92992ac7ff9b.rmeta: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\console.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\file.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\sysinfo.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\win.rs
+
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\libwinapi_util-a8ba92992ac7ff9b.rlib: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\console.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\file.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\sysinfo.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\win.rs
+
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\winapi_util-a8ba92992ac7ff9b.d: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\console.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\file.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\sysinfo.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\win.rs
+
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\lib.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\console.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\file.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\sysinfo.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.6\src\win.rs:

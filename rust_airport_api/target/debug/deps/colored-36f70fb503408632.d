@@ -1,0 +1,11 @@
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\colored-36f70fb503408632.rmeta: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\libcolored-36f70fb503408632.rlib: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\colored-36f70fb503408632.d: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs:

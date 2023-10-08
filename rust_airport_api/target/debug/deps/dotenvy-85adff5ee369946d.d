@@ -1,0 +1,11 @@
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\dotenvy-85adff5ee369946d.rmeta: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs
+
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\libdotenvy-85adff5ee369946d.rlib: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs
+
+C:\GitHub\MPTsync\4 курс\KursachAirport\api\airport_api\target\debug\deps\dotenvy-85adff5ee369946d.d: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\lib.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\errors.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\find.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\iter.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dotenvy-0.15.7\src\parse.rs:
