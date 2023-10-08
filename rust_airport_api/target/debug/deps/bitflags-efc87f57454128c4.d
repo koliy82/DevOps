@@ -1,0 +1,11 @@
+C:\Users\rutop\Рабочий стол\DevOps\rust_airport_api\target\debug\deps\bitflags-efc87f57454128c4.rmeta: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\iter.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\parser.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\traits.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\public.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\internal.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\external.rs
+
+C:\Users\rutop\Рабочий стол\DevOps\rust_airport_api\target\debug\deps\bitflags-efc87f57454128c4.d: C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\lib.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\iter.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\parser.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\traits.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\public.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\internal.rs C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\external.rs
+
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\lib.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\iter.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\parser.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\traits.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\public.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\internal.rs:
+C:\Users\rutop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.0\src\external.rs:

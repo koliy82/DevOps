@@ -1,0 +1,3 @@
+cargo:rustc-cfg=rustc_1_70
+cargo:rerun-if-changed=C:\Users\rutop\Рабочий стол\DevOps\rust_airport_api\target\debug\build\bigdecimal-25bce20459d1e22d\out\default_precision.rs
+cargo:rerun-if-env-changed=RUST_BIGDECIMAL_DEFAULT_PRECISION
